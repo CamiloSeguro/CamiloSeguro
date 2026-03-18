@@ -53,14 +53,6 @@ TouchDesigner, generative visuals, data-driven interaction
 
 ---
 
-## Currently Building
-
-- Immersive XR experiences focused on emotional interaction  
-- Real-time systems combining design and development  
-- A portfolio of high-impact interactive projects  
-
----
-
 ## Approach
 
 I work across concept, design and implementation.
