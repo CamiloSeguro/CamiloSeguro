@@ -55,7 +55,7 @@ TouchDesigner, generative visuals, data-driven interaction
 
 ## Approach
 
-I work across concept, design and implementation.
+I work across concept, design, and implementation.
 
 This allows me to:
 - Maintain coherence between idea and execution  
@@ -73,7 +73,7 @@ LinkedIn
 https://www.linkedin.com/in/camilo-seguro-carvajal/
 
 Website  
-https://camiloseguro.framer.website/  
+https://camiloseguro.com  
 
 ---
 
