@@ -1,46 +1,70 @@
 <!-- HEADER VISUAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=120&section=header&text=Camilo%20Seguro&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=140&section=header&text=Camilo%20Seguro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Interactive Systems · XR · Real-Time Experiences</h3>
+<p align="center">
+  <strong>Interactive Systems · XR · Real-Time Worlds</strong><br/>
+  Designing behavior, not just interfaces
+</p>
 
 ---
 
-## Practice
+## About
 
-I design and build interactive systems that exist across digital and spatial environments.
+I design systems where interaction, space and narrative converge.
 
-My work focuses on how interaction, space and narrative shape perception, behavior and emotion within immersive experiences.
+My work lives between **digital and physical environments**, exploring how people behave, feel and make decisions inside real-time experiences.
 
-Rather than separating design and development, I approach both as a unified system.
+I don't separate design from development.  
+I build them as a single system.
+
+---
+
+## Focus
+
+- Interactive installations  
+- XR experiences (VR / AR)  
+- Real-time environments  
+- Audioreactive & generative systems  
+- Spatial interfaces  
 
 ---
 
 ## Capabilities
 
-**Interaction Design**  
-Systems thinking, user flows, interface architecture  
+**Interaction Systems**  
+Behavior design · user flows · systemic thinking  
 
 **Real-Time Development**  
-Unity (XR), Unreal Engine, interactive environments  
+Unity (XR) · Unreal Engine · spatial logic  
 
-**3D and Visual Systems**  
-Blender, lighting, composition, spatial storytelling  
+**3D & Visual Direction**  
+Blender · lighting · composition · atmosphere  
 
-**Frontend Systems**  
-React, TypeScript, component-driven architecture  
+**Frontend & Interfaces**  
+React · TypeScript · component systems  
 
 **Creative Technology**  
-TouchDesigner, generative visuals, data-driven interaction  
+TouchDesigner · generative visuals · live data  
 
 ---
 
-## Stack
+## Selected Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,blender,unity,unreal,react,ts,vite&perline=7" />
 </p>
+
+---
+
+## Current Direction
+
+Building interactive experiences that:
+
+- React in real time  
+- Exist beyond screens  
+- Blur the line between system and narrative  
 
 ---
 
@@ -53,27 +77,16 @@ TouchDesigner, generative visuals, data-driven interaction
 
 ---
 
-## Approach
-
-I work across concept, design, and implementation.
-
-This allows me to:
-- Maintain coherence between idea and execution  
-- Prototype faster and test interaction early  
-- Build systems, not just interfaces  
-
----
-
-## Links
+## Work
 
 Behance  
 https://www.behance.net/camiloseguro2  
 
-LinkedIn  
-https://www.linkedin.com/in/camilo-seguro-carvajal/
-
 Website  
 https://camiloseguro.com  
+
+LinkedIn  
+https://www.linkedin.com/in/camilo-seguro-carvajal/
 
 ---
 
