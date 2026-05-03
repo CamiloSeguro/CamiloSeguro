@@ -1,52 +1,86 @@
-<!-- HEADER VISUAL -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=140&section=header&text=Camilo%20Seguro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=160&section=header&text=Camilo%20Seguro&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>Interactive Systems · XR · Real-Time Worlds</strong><br/>
-  Designing behavior, not just interfaces
+  <strong>Interactive Systems · XR · Real-Time Experiences</strong><br/>
+  <sub>Designing behavior inside systems</sub>
 </p>
 
 ---
 
 ## About
 
-I design systems where interaction, space and narrative converge.
+I design and build systems where **interaction, space and narrative** operate as one.
 
-My work lives between **digital and physical environments**, exploring how people behave, feel and make decisions inside real-time experiences.
+My work focuses on how people **behave, perceive and respond** inside real-time environments — not just what they see.
 
-I don't separate design from development.  
-I build them as a single system.
+I move across **concept → system design → implementation**, allowing ideas to be tested as experiences, not just visuals.
+
+---
+
+## Featured Work
+
+### 01 — Audioreactive Medellín  
+Real-time city visualization driven by live audio input.
+
+- Generative system reacting to frequency & amplitude  
+- Spatial composition inspired by Medellín landscapes  
+- Built for immersive / installation context  
+
+> Exploring how sound reshapes perception of place
+
+---
+
+### 02 — Duolingo Zombies FPS (XR Concept)  
+Experimental FPS where language learning meets survival mechanics.
+
+- Gameplay as learning system  
+- World-building through absurd narrative logic  
+- Currently rebuilding in Unreal Engine  
+
+> Turning education into embodied interaction
+
+---
+
+### 03 — Interactive Spatial Interface (EAFIT System)  
+Prototype explaining non-linear academic structures.
+
+- Programs vs Schools as interactive system  
+- Designed for physical + conversational context  
+- Built as real-time interactive experience  
+
+> Making abstract systems understandable through interaction
 
 ---
 
 ## Focus
 
+- XR / spatial computing  
 - Interactive installations  
-- XR experiences (VR / AR)  
 - Real-time environments  
-- Audioreactive & generative systems  
-- Spatial interfaces  
+- Audioreactive systems  
+- Experimental interfaces  
 
 ---
 
 ## Capabilities
 
-**Interaction Systems**  
-Behavior design · user flows · systemic thinking  
+**System Design**  
+Behavior · logic · interaction models  
 
 **Real-Time Development**  
-Unity (XR) · Unreal Engine · spatial logic  
+Unity (XR) · Unreal Engine  
 
-**3D & Visual Direction**  
-Blender · lighting · composition · atmosphere  
+**3D & Spatial Thinking**  
+Blender · lighting · composition  
 
-**Frontend & Interfaces**  
-React · TypeScript · component systems  
+**Frontend Systems**  
+React · TypeScript  
 
-**Creative Technology**  
-TouchDesigner · generative visuals · live data  
+**Creative Tech**  
+TouchDesigner · generative systems  
 
 ---
 
@@ -58,13 +92,14 @@ TouchDesigner · generative visuals · live data
 
 ---
 
-## Current Direction
+## Philosophy
 
-Building interactive experiences that:
+I don’t design screens.
 
-- React in real time  
-- Exist beyond screens  
-- Blur the line between system and narrative  
+I design:
+- Systems that respond  
+- Spaces that behave  
+- Interactions that shape meaning  
 
 ---
 
@@ -77,7 +112,7 @@ Building interactive experiences that:
 
 ---
 
-## Work
+## Links
 
 Behance  
 https://www.behance.net/camiloseguro2  
