@@ -91,7 +91,7 @@ Equipment reservation and inventory platform designed for university laboratorie
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=CamiloSeguro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CamiloSeguro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
 />
 
 <img
@@ -105,7 +105,7 @@ src="https://streak-stats.demolab.com?user=CamiloSeguro&theme=tokyonight&hide_bo
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSeguro&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CamiloSeguro&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </p>
