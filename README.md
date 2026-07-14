@@ -2,32 +2,33 @@
 
 # Camilo Seguro
 
-### Product Designer • Interactive Designer • Creative Technologist
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Designing+digital+experiences.;Building+interactive+products.;React+%7C+Unity+%7C+Blender+%7C+XR.;Human-centered+design+meets+technology." />
+### Product Designer building thoughtful digital experiences.
 
 <p>
-Designing products where design, technology, and human-centered thinking come together.
+Designing digital products across web, XR, and interactive media with a focus on usability, interaction, and modern technology.
 </p>
 
-<p>
+<br>
+
 <a href="https://camiloseguro.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/camilo-seguro-carvajal/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/CamiloSeguro">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://makia.studio">
-<img src="https://img.shields.io/badge/Makia%20Studio-2563EB?style=flat-square&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Makia_Studio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:camiloseguro@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -35,147 +36,125 @@ Designing products where design, technology, and human-centered thinking come to
 
 ## About
 
-I'm an Interactive Designer based in Medellín, Colombia, passionate about creating digital products that combine thoughtful design with modern technology.
+I'm an **Interaction Designer** based in **Medellín, Colombia**, passionate about creating digital products where design and technology come together.
 
-My work spans product design, frontend development, 3D experiences, and immersive technologies using React, Unity, Unreal Engine, and Blender. I enjoy transforming complex ideas into intuitive products that people genuinely enjoy using.
+My work spans product design, frontend development, immersive experiences, and creative technology. I enjoy translating complex ideas into intuitive products by combining user-centered design with modern development tools.
 
 ---
 
-## Current Focus
+## Currently
 
-- Building modern web applications with React
-- Designing immersive XR experiences
-- Growing Makia Studio
-- Creating scalable design systems
-- Exploring creative technology and interactive media
+- Building **Makia Studio**
+- Designing digital products and interactive experiences
+- Developing modern interfaces with React
+- Exploring XR, Unity, and immersive technologies
+- Continuously improving design systems and frontend architecture
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,unity,unreal,blender,figma,git,github,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,unity,unreal,blender,figma,git,github,vscode"/>
+
 </p>
 
 ---
 
-## Selected Projects
+## Selected Work
 
-### Makia Studio
-
-Creative digital studio focused on premium web experiences, branding, UX/UI, and product design.
-
-**Website:** https://makia.studio
-
----
-
-### BienStart VR
-
-A virtual reality experience promoting workplace wellbeing through immersive interaction and mindfulness.
-
-**Stack:** Unity · XR Toolkit · Blender · C#
-
----
-
-### Resource Management Platform
-
-Equipment reservation and inventory platform designed for university laboratories.
-
-**Stack:** React · TypeScript · Tailwind CSS
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **Makia Studio** | Creative studio focused on product design, branding, UX/UI and modern web experiences. | React · Framer · Figma |
+| **BienStart VR** | Virtual reality experience promoting workplace wellbeing through immersive interaction. | Unity · XR Toolkit · Blender |
+| **Resource Management Platform** | Equipment reservation and inventory platform for university laboratories. | React · TypeScript · Tailwind CSS |
 
 ---
 
 ## GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CamiloSeguro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CamiloSeguro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img
-height="170"
-src="https://streak-stats.demolab.com?user=CamiloSeguro&theme=tokyonight&hide_border=true"
-/>
+<img height="170" src="https://streak-stats.demolab.com?user=CamiloSeguro&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img
-height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CamiloSeguro&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<div align="center">
 
-</p>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CamiloSeguro&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## Activity Graph
+## Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloSeguro&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## Currently Learning
+## Experience
 
-- Product Design
-- React Ecosystem
-- Three.js
-- WebGL
-- Unity 6
-- Unreal Engine 5
-- XR Development
-- Motion Design
-- Creative Coding
-
----
-
-## Education
-
-**Interactive Design**
-
+**Interaction Designer**  
 EAFIT University
 
-Medellín, Colombia
+Working on digital products, interactive systems, immersive experiences, and user-centered design projects that combine design thinking with modern technologies.
 
 ---
 
-## Let's Connect
+## Interests
 
-<p align="center">
+- Product Design
+- UX/UI
+- Frontend Development
+- Design Systems
+- XR / VR
+- Creative Technology
+- Motion Design
+- 3D Workflows
+- Human-Centered Design
 
-<a href="mailto:camiloseguro@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
+---
 
-<a href="https://www.linkedin.com/in/camilo-seguro-carvajal/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
+## Connect
+
+<div align="center">
 
 <a href="https://camiloseguro.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://makia.studio">
-<img src="https://img.shields.io/badge/Makia%20Studio-2563EB?style=flat-square&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/badge/Makia_Studio-2563EB?style=for-the-badge"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/camilo-seguro-carvajal/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:camiloseguro@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-> *Great products aren't just built—they're thoughtfully designed.*
+> *Design is how technology becomes human.*
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=CamiloSeguro&style=flat-square&color=2563EB">
+<img src="https://komarev.com/ghpvc/?username=CamiloSeguro&style=flat-square&color=2563EB"/>
 
 </div>
