@@ -1,9 +1,305 @@
-<h1 align="center">Hola, soy Camilo Seguro</h1>
-<h3 align="center">Diseñador Interactivo</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# 👋 Hi, I'm Camilo Seguro
+
+### Product Designer • Interactive Designer • Creative Technologist
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Designing+digital+experiences.;Building+interactive+products.;React+%7C+Unity+%7C+Blender+%7C+XR.;Human-centered+design+meets+technology." alt="Typing SVG" />
+
+<p>
+Designing products where <strong>creativity</strong>, <strong>technology</strong>, and <strong>user experience</strong> come together.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br>
+
+<a href="https://camiloseguro.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/camilo-seguro-carvajal/">
+<img src="https://img.shields.io/badge/LinkedIn-Camilo%20Seguro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/CamiloSeguro">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://makia.studio">
+<img src="https://img.shields.io/badge/Makia%20Studio-Co--Founder-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="mailto:camiloseguro@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm an **Interactive Designer** based in **Medellín, Colombia**, passionate about creating digital products that blend thoughtful design with modern development.
+
+My work sits at the intersection of **UX**, **frontend engineering**, **3D experiences**, and **immersive technologies**, allowing me to prototype, design, and build products from concept to implementation.
+
+I enjoy transforming complex problems into elegant, intuitive experiences that people genuinely enjoy using.
+
+---
+
+# ✨ What I'm Working On
+
+| 🚀 | |
+|-----|-----|
+| 🎨 | Building digital experiences with **React** |
+| 🥽 | Exploring **XR, VR & Interactive Systems** |
+| 🌐 | Growing **Makia Studio** |
+| 💡 | Designing products focused on usability and accessibility |
+| 📚 | Continuously learning modern frontend technologies |
+
+---
+
+# 🛠 Tech Stack
+
+## Design
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=ps"/>
+
+<img src="https://skillicons.dev/icons?i=ai"/>
+
+<img src="https://skillicons.dev/icons?i=ae"/>
+
+<img src="https://skillicons.dev/icons?i=blender"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+</p>
+
+---
+
+## Creative Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=unity"/>
+
+<img src="https://skillicons.dev/icons?i=unreal"/>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+
+---
+
+# 💡 Areas of Expertise
+
+```text
+🎨 Product Design
+███████████████████████
+
+🖥 UI Design
+██████████████████████
+
+📱 UX Design
+█████████████████████
+
+⚛ React Development
+██████████████████
+
+🥽 XR / VR
+██████████████████
+
+🎮 Unity Development
+█████████████████
+
+🎭 Motion Design
+████████████████
+
+🧩 Design Systems
+██████████████████
+```
+
+---
+
+# 🌟 Featured Projects
+
+## 🏢 Makia Studio
+
+A creative digital studio focused on building premium digital products, websites and experiences through strategy, design and development.
+
+**Focus**
+
+- UX/UI Design
+- Branding
+- Web Development
+- Product Strategy
+- Interactive Experiences
+
+🔗 https://makia.studio
+
+---
+
+## 🥽 BienStart VR
+
+A virtual reality experience designed to improve workplace wellbeing through immersive relaxation and mindfulness exercises.
+
+**Technologies**
+
+- Unity
+- XR Interaction Toolkit
+- Blender
+- C#
+
+---
+
+## 📦 Resource Management Platform
+
+A complete digital platform for managing equipment reservations, loans and inventory workflows.
+
+**Built with**
+
+- React
+- TypeScript
+- Tailwind CSS
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CamiloSeguro&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloSeguro&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSeguro&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloSeguro&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+- Product Design
+- React Ecosystem
+- Three.js
+- WebGL
+- Unity 6
+- Unreal Engine 5
+- XR Experiences
+- Design Systems
+- Motion Design
+- Creative Coding
+
+---
+
+# 🎓 Education
+
+🎓 **Interactive Design**
+
+**EAFIT University**
+
+Medellín, Colombia
+
+---
+
+# 🌍 Let's Build Something Amazing
+
+I'm always interested in collaborating on projects involving:
+
+✅ Product Design
+
+✅ UX/UI
+
+✅ React Applications
+
+✅ Interactive Experiences
+
+✅ XR / VR
+
+✅ Creative Technology
+
+✅ Design Systems
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:camiloseguro@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/camilo-seguro-carvajal/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://camiloseguro.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://makia.studio">
+<img src="https://img.shields.io/badge/Makia%20Studio-2563EB?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Great products aren't just built—they're thoughtfully designed."*
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=CamiloSeguro&style=for-the-badge&color=2563EB)
+
+_Last updated: July 2026_
+
+</div>
