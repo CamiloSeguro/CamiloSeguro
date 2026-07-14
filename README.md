@@ -1,305 +1,100 @@
 <div align="center">
 
-# 👋 Hi, I'm Camilo Seguro
+# Camilo Seguro
 
 ### Product Designer • Interactive Designer • Creative Technologist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Designing+digital+experiences.;Building+interactive+products.;React+%7C+Unity+%7C+Blender+%7C+XR.;Human-centered+design+meets+technology." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Designing+digital+experiences.;Building+interactive+products.;React+%7C+Unity+%7C+Blender+%7C+XR.;Human-centered+design+meets+technology." />
 
 <p>
-Designing products where <strong>creativity</strong>, <strong>technology</strong>, and <strong>user experience</strong> come together.
+Designing products where design, technology, and human-centered thinking come together.
 </p>
 
-<br>
-
 <a href="https://camiloseguro.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel"/>
 </a>
-
 <a href="https://www.linkedin.com/in/camilo-seguro-carvajal/">
-<img src="https://img.shields.io/badge/LinkedIn-Camilo%20Seguro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
 </a>
-
 <a href="https://github.com/CamiloSeguro">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
 </a>
-
 <a href="https://makia.studio">
-<img src="https://img.shields.io/badge/Makia%20Studio-Co--Founder-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="mailto:camiloseguro@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Makia%20Studio-2563EB?style=flat-square"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About
 
-I'm an **Interactive Designer** based in **Medellín, Colombia**, passionate about creating digital products that blend thoughtful design with modern development.
+I'm an Interactive Designer based in Medellín, Colombia, focused on creating digital products that combine thoughtful design with modern technology.
 
-My work sits at the intersection of **UX**, **frontend engineering**, **3D experiences**, and **immersive technologies**, allowing me to prototype, design, and build products from concept to implementation.
-
-I enjoy transforming complex problems into elegant, intuitive experiences that people genuinely enjoy using.
+My work spans product design, frontend development, 3D workflows, and immersive experiences using React, Unity, Unreal Engine, and Blender. I enjoy transforming complex ideas into intuitive products that people genuinely enjoy using.
 
 ---
 
-# ✨ What I'm Working On
+## Current Focus
 
-| 🚀 | |
-|-----|-----|
-| 🎨 | Building digital experiences with **React** |
-| 🥽 | Exploring **XR, VR & Interactive Systems** |
-| 🌐 | Growing **Makia Studio** |
-| 💡 | Designing products focused on usability and accessibility |
-| 📚 | Continuously learning modern frontend technologies |
+- Building digital products with React
+- Designing immersive XR experiences
+- Growing Makia Studio
+- Developing scalable design systems
+- Exploring creative technology
 
 ---
 
-# 🛠 Tech Stack
+## Stack
 
-## Design
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-<img src="https://skillicons.dev/icons?i=ps"/>
-
-<img src="https://skillicons.dev/icons?i=ai"/>
-
-<img src="https://skillicons.dev/icons?i=ae"/>
-
-<img src="https://skillicons.dev/icons?i=blender"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,unity,unreal,blender,figma,git,github"/>
 </p>
 
 ---
 
-## Frontend
+## Selected Work
 
-<p>
+### Makia Studio
 
-<img src="https://skillicons.dev/icons?i=react"/>
+Creative digital studio focused on product design, branding, and modern web experiences.
 
-<img src="https://skillicons.dev/icons?i=ts"/>
+### BienStart VR
 
-<img src="https://skillicons.dev/icons?i=js"/>
+A virtual reality experience designed to promote workplace wellbeing through immersive interaction.
 
-<img src="https://skillicons.dev/icons?i=html"/>
+### Resource Management Platform
 
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-</p>
+A complete equipment reservation and inventory management platform built with React and TypeScript.
 
 ---
 
-## Creative Development
+## GitHub
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=unity"/>
-
-<img src="https://skillicons.dev/icons?i=unreal"/>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
-
----
-
-# 💡 Areas of Expertise
-
-```text
-🎨 Product Design
-███████████████████████
-
-🖥 UI Design
-██████████████████████
-
-📱 UX Design
-█████████████████████
-
-⚛ React Development
-██████████████████
-
-🥽 XR / VR
-██████████████████
-
-🎮 Unity Development
-█████████████████
-
-🎭 Motion Design
-████████████████
-
-🧩 Design Systems
-██████████████████
-```
-
----
-
-# 🌟 Featured Projects
-
-## 🏢 Makia Studio
-
-A creative digital studio focused on building premium digital products, websites and experiences through strategy, design and development.
-
-**Focus**
-
-- UX/UI Design
-- Branding
-- Web Development
-- Product Strategy
-- Interactive Experiences
-
-🔗 https://makia.studio
-
----
-
-## 🥽 BienStart VR
-
-A virtual reality experience designed to improve workplace wellbeing through immersive relaxation and mindfulness exercises.
-
-**Technologies**
-
-- Unity
-- XR Interaction Toolkit
-- Blender
-- C#
-
----
-
-## 📦 Resource Management Platform
-
-A complete digital platform for managing equipment reservations, loans and inventory workflows.
-
-**Built with**
-
-- React
-- TypeScript
-- Tailwind CSS
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=CamiloSeguro&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloSeguro&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSeguro&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloSeguro&theme=tokyo-night&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🎯 Currently Exploring
+## Connect
 
-- Product Design
-- React Ecosystem
-- Three.js
-- WebGL
-- Unity 6
-- Unreal Engine 5
-- XR Experiences
-- Design Systems
-- Motion Design
-- Creative Coding
-
----
-
-# 🎓 Education
-
-🎓 **Interactive Design**
-
-**EAFIT University**
-
-Medellín, Colombia
-
----
-
-# 🌍 Let's Build Something Amazing
-
-I'm always interested in collaborating on projects involving:
-
-✅ Product Design
-
-✅ UX/UI
-
-✅ React Applications
-
-✅ Interactive Experiences
-
-✅ XR / VR
-
-✅ Creative Technology
-
-✅ Design Systems
-
----
-
-# 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:camiloseguro@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/camilo-seguro-carvajal/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://camiloseguro.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://makia.studio">
-<img src="https://img.shields.io/badge/Makia%20Studio-2563EB?style=for-the-badge"/>
-</a>
-
-</div>
+- Portfolio — https://camiloseguro.com
+- LinkedIn — https://linkedin.com/in/camilo-seguro-carvajal
+- Makia Studio — https://makia.studio
+- Email — camiloseguro@outlook.com
 
 ---
 
 <div align="center">
 
-### 💭 *"Great products aren't just built—they're thoughtfully designed."*
+> Great products aren't just built—they're thoughtfully designed.
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=CamiloSeguro&style=for-the-badge&color=2563EB)
-
-_Last updated: July 2026_
+![](https://komarev.com/ghpvc/?username=CamiloSeguro&style=flat-square)
 
 </div>
