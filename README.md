@@ -66,7 +66,7 @@ My work spans product design, frontend development, immersive experiences, and c
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| **Makia Studio** | Creative studio focused on product design, branding, UX/UI and modern web experiences. | React · Framer · Figma |
+| **Makia Studio** | Creative studio focused on product design, branding, UX/UI and modern web experiences. | React · Figma |
 | **BienStart VR** | Virtual reality experience promoting workplace wellbeing through immersive interaction. | Unity · XR Toolkit · Blender |
 | **Resource Management Platform** | Equipment reservation and inventory platform for university laboratories. | React · TypeScript · Tailwind CSS |
 
