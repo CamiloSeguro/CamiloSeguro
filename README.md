@@ -56,7 +56,7 @@ My work spans product design, frontend development, immersive experiences, and c
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,unity,unreal,blender,figma,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=unity,unreal,blender,react,html,css,figma,git,github"/>
 
 </p>
 
